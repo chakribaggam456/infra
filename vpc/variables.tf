@@ -8,8 +8,3 @@ variable "vpc_name" {
   type        = string
 }
 
-variable "region" {
-  description = "Name of the VPC"
-  type        = string
-}
-
